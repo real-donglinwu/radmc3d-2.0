@@ -6,7 +6,7 @@ OPTIM = -O2 -fopenmp
 # OPTIM = -O2 
 
 # The system defines used in executing make
-# FF = /Users/dullemon/libraries/g95-install/bin/powerpc-apple-darwin6.8-g95
+# FF = /opt/homebrew/bin/gfortran
 
 # For using the OpenMP parallel version of RADMC-3D one has to add '-fopenmp' in
 # the next command line (see also the RADMC-3D manual).
